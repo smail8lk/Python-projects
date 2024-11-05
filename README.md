@@ -1,2 +1,2 @@
-# Python-projects
+# Python-project
 NLP project
